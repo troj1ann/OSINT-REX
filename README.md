@@ -144,10 +144,9 @@ Edit `sites.json` to customize platform list:
 
 ### 📸 Screenshots
 
-```
-
 ![Demo1](screenshots/Demo1.png)
 ![Demo](screenshots/Demo.png)
+
 
 ### ⚠️ Legal Disclaimer
 
@@ -280,6 +279,7 @@ Made with ❤️ by Troj1ann
 
 
 </div>
+
 
 
 
