@@ -18,10 +18,10 @@ init(autoreset=True)
 try:  # <<< Tüm scripti bu try bloğuna alıyoruz
 
     # ---------------------------------------------------------------------[DOWNLOADING]
-    os.system("cls")
+    os.system("clear")
     for i in tqdm(range(50), desc=Fore.YELLOW + "Downloading" + Style.RESET_ALL, ncols=100, colour="white"):
         time.sleep(0.05)
-    os.system("cls")
+    os.system("clear")
 
     # ---------------------------------------------------------------------[RENKLİ-BASLIK]
     ascii_art = pyfiglet.figlet_format("OSINT-REX", font="slant")
@@ -117,15 +117,15 @@ try:  # <<< Tüm scripti bu try bloğuna alıyoruz
             secim = int(input(" " + Fore.YELLOW + "(" + Style.RESET_ALL + "OSINT-REX" + Style.RESET_ALL + Fore.YELLOW + ")" +
                               Style.RESET_ALL + Fore.MAGENTA + " 1 or 99 " + Style.RESET_ALL + Fore.RED + ">> " + Style.RESET_ALL))
         except ValueError:
-            os.system("cls")
+            os.system("clear")
             print("Just Enter Numbers")
             continue
 
         if secim == 1:
-            os.system("cls")
+            os.system("clear")
             print(" " + Fore.YELLOW + "(" + Style.RESET_ALL + "OSINT-REX" + Style.RESET_ALL + Fore.YELLOW + ")" + Style.RESET_ALL + Fore.BLUE + "Agent>" + Style.RESET_ALL + Fore.YELLOW + "Waiting")
             time.sleep(0.6)
-            os.system("cls")
+            os.system("clear")
             time.sleep(0.5)
             print(" " + Fore.YELLOW + "(" + Style.RESET_ALL + "OSINT-REX" + Fore.YELLOW + ")" + Fore.BLUE + "Agent>" + Style.RESET_ALL + Fore.GREEN + "Running!")
             time.sleep(0.5)
