@@ -145,15 +145,9 @@ Edit `sites.json` to customize platform list:
 ### 📸 Screenshots
 
 ```
-          ____  _____ _____ _   ________     ____  ________  __
-         / __ \/ ___//  _/ | / /_  __/ __ \   / __ \/ ____/ |/ /
-        / / / /\__ \ / //  |/ / / / / /_/ /  / /_/ / __/  |   / 
-       / /_/ /___/ // // /|  / / / / _, _/  / _, _/ /___ /   |  
-       \____//____/___/_/ |_/ /_/ /_/ |_|  /_/ |_/_____//_/|_|  
 
-(OSINT-REX)[+] https://github.com/johndoe --> [FOUND] | github.com
-(OSINT-REX)[-] https://twitter.com/johndoe --> [NOT FOUND] | twitter.com
-```
+![Demo1](screenshots/Demo1.png)
+![Demo](screenshots/Demo.png)
 
 ### ⚠️ Legal Disclaimer
 
@@ -286,5 +280,6 @@ Made with ❤️ by Troj1ann
 
 
 </div>
+
 
 
