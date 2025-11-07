@@ -51,7 +51,7 @@
 
 ### 📦 Installation
 
-See [INSTALLATION.md](INSTALLATION.md) for detailed setup instructions.
+See [INSTALLATION.md](/docs/INSTALLATION.md) for detailed setup instructions.
 
 **Quick Install:**
 ```bash
@@ -279,6 +279,7 @@ Made with ❤️ by Troj1ann
 
 
 </div>
+
 
 
 
